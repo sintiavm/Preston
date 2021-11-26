@@ -1,6 +1,6 @@
 
 body {
-    background-color: #a5a5a5;
+    background-color: #284259;
     padding: 0;
     margin: 0;
 }
@@ -58,7 +58,7 @@ h2 {
     width: 40px;
     height:40px;
     text-align: center;
-    color: aliceblue;
+    color: #284259;
     cursor: pointer;
     transition: all 0.5s ease;
     }
