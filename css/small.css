@@ -79,6 +79,51 @@ h2 {
   
 }
 
+#forecast-section {
+    position: relative;
+    left: 250px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    max-width: 1000px;
+}
+.contentboxforecast {
+    padding:10px;
+    text-align: center;
+
+}
+.forcast-days{
+   padding-bottom:5px;
+   margin:3px;
+}
+div{
+    padding:5px;
+}
+#sun-icon{
+    display: flex;
+    justify-content: center;
+    width: 70px;
+    height: 70px;
+  }
+.contentboxarticle{
+    padding:10px;
+    text-align: center; 
+    background-color: #1F818C;
+}
+.contentboxarticle img{
+    width: 300px;
+    height: 250px;
+    float: left;
+
+}
+p {
+    padding: 0;
+	letter-spacing: 0.1rem;
+	line-height: 2;
+    color: white;
+    justify-content: center;
+}
+
 #contact-section {
     display:grid;
     grid-template-columns: 1fr 1fr;
